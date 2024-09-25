@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\New folder\count_char\bin\Debug\net7.0\count_char.exe
+C:\Users\ASUS\Desktop\New folder\count_char\bin\Debug\net7.0\count_char.deps.json
+C:\Users\ASUS\Desktop\New folder\count_char\bin\Debug\net7.0\count_char.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\count_char\bin\Debug\net7.0\count_char.dll
+C:\Users\ASUS\Desktop\New folder\count_char\bin\Debug\net7.0\count_char.pdb
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.dll
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\refint\count_char.dll
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.pdb
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\count_char.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\count_char\obj\Debug\net7.0\ref\count_char.dll
